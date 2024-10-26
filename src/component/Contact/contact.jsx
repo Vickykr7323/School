@@ -40,10 +40,10 @@ const Contact = () => {
         <h3>Send Us a Message <img src={msg_icon} alt="msg-icon"/> </h3>
         <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
         <ul>
-            <li> <img src={mail_icon} alt=''/> Contact@Code.com</li>
-            <li> <img src={phone_icon} alt=''/> +91 2556656789</li>
+            <li> <img src={mail_icon} alt=''/> vickykr802302@gmail.com</li>
+            <li> <img src={phone_icon} alt=''/> +91 8340223956</li>
             <li> <img src={location_icon
-            } alt=''/> Mumbai , India</li>
+            } alt=''/> Mordabad , India</li>
         </ul>
       </div>
 
